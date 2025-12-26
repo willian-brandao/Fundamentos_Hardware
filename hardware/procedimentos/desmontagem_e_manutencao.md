@@ -632,4 +632,221 @@ O SSD e/ou HDD estarão corretamente instalados, fixados e conectados à placa-m
 
 --- 
 
+# Procedimento de Hardware – Desmontagem, Manuseio e Reinstalação
+
+## Objetivo
+Documentar o procedimento correto de desmontagem, manuseio, alinhamento e reinstalação de componentes de hardware, garantindo segurança física e integridade dos equipamentos.
+
+---
+
+## Pré-requisitos
+- Equipamento completamente desligado
+- Cabo de energia removido
+- Ambiente organizado e sem umidade
+- Superfície plana para apoio
+- Conhecimento básico de hardware
+
+---
+
+## Ferramentas Necessárias
+- Chave Philips
+- Chave de fenda (se aplicável)
+- Pulseira antiestática (recomendado)
+- Recipiente para parafusos
+
+---
+
+## Procedimento Passo a Passo
+
+### 1. Desenergização do Equipamento
+1. Desligue o computador pelo sistema operacional.
+2. Remova o cabo de energia da fonte.
+3. Pressione o botão **Power** por alguns segundos para eliminar energia residual.
+
+> ⚠️ **Importante:** Nunca realize manutenção com o equipamento energizado.
+
+---
+
+### 2. Abertura do Gabinete
+1. Posicione o gabinete em local estável.
+2. Remova os parafusos da tampa lateral.
+3. Retire a tampa com cuidado e reserve em local seguro.
+
+---
+
+### 3. Análise Visual Inicial
+1. Observe a disposição interna dos componentes.
+2. Identifique o componente que será removido ou ajustado.
+3. Verifique a existência de travas, parafusos ou presilhas.
+
+> ℹ️ Essa análise evita remoções incorretas e danos físicos.
+
+---
+
+### 4. Remoção do Componente
+1. Solte os parafusos ou mecanismos de fixação.
+2. Segure o componente sempre pelas bordas.
+3. Retire-o lentamente, mantendo o alinhamento com o slot.
+4. Apoie o componente em superfície adequada e isolada.
+
+---
+
+### 5. Manuseio Correto
+1. Evite tocar nos contatos metálicos.
+2. Não apoie componentes diretamente sobre superfícies condutivas.
+3. Mantenha o componente sempre alinhado durante o manuseio.
+
+---
+
+### 6. Reinstalação do Componente
+1. Posicione o componente no slot ou suporte correto.
+2. Alinhe cuidadosamente antes de encaixar.
+3. Insira o componente sem aplicar força excessiva.
+4. Reaperte os parafusos de fixação.
+
+> ⚠️ **Atenção:** Forçar componentes desalinhados pode causar danos permanentes.
+
+---
+
+### 7. Organização Interna
+1. Verifique se cabos estão corretamente posicionados.
+2. Certifique-se de que nada esteja pressionando os componentes.
+3. Confirme que todos os parafusos foram recolocados.
+
+---
+
+### 8. Fechamento do Gabinete
+1. Recoloque a tampa lateral.
+2. Fixe os parafusos do gabinete.
+3. Garanta que o gabinete esteja completamente fechado.
+
+---
+
+### 9. Teste de Funcionamento
+1. Reconecte o cabo de energia.
+2. Ligue o equipamento.
+3. Verifique se o sistema reconhece corretamente os componentes instalados.
+4. Observe possíveis ruídos ou falhas no boot.
+
+---
+
+## Boas Práticas
+- Trabalhar sempre com calma e atenção
+- Manter organização dos parafusos
+- Nunca aplicar força excessiva
+- Utilizar proteção antiestática
+
+---
+
+## Erros Comuns
+- Esquecer de descarregar energia residual
+- Forçar encaixe incorreto
+- Deixar parafusos soltos dentro do gabinete
+- Tocar diretamente nos contatos eletrônicos
+
+---
+
+## Observações Finais
+Este procedimento deve ser seguido sempre que houver necessidade de manutenção física em equipamentos de hardware, reduzindo riscos de danos e retrabalho.
+
+--- 
+
+# Procedimento de Hardware – Desmontagem e Ajuste de Componentes
+
+## Objetivo
+Descrever o procedimento correto para desmontar, alinhar, remover e reinstalar componentes de hardware com segurança, evitando danos físicos ao equipamento.
+
+---
+
+## Pré-requisitos
+- Equipamento desligado
+- Cabo de energia desconectado
+- Ambiente limpo e organizado
+- Superfície plana para apoio dos componentes
+
+---
+
+## Ferramentas Necessárias
+- Chave Philips
+- Chave de fenda (se necessário)
+- Pulseira antiestática (recomendado)
+- Recipiente para parafusos
+
+---
+
+## Procedimento Passo a Passo
+
+### 1. Preparação Inicial
+1. Desligue completamente o computador.
+2. Remova o cabo de energia da tomada.
+3. Pressione o botão **Power** por alguns segundos para descarregar energia residual.
+4. Posicione o equipamento em uma superfície estável.
+
+---
+
+### 2. Abertura do Gabinete
+1. Remova os parafusos da tampa lateral.
+2. Deslize ou retire a tampa com cuidado.
+3. Coloque a tampa em local seguro.
+
+> ⚠️ **Atenção:** Evite tocar diretamente nos contatos eletrônicos.
+
+---
+
+### 3. Identificação dos Componentes
+1. Localize o componente que será removido ou ajustado.
+2. Observe o encaixe, posição e alinhamento antes da remoção.
+3. Verifique se há travas, presilhas ou parafusos de fixação.
+
+---
+
+### 4. Remoção do Componente
+1. Solte os parafusos ou travas de fixação.
+2. Segure o componente pelas bordas.
+3. Retire-o lentamente, mantendo-o alinhado ao slot ou suporte.
+4. Apoie o componente em superfície adequada.
+
+---
+
+### 5. Alinhamento e Reinstalação
+1. Posicione o componente exatamente no ponto de encaixe.
+2. Alinhe corretamente antes de aplicar qualquer força.
+3. Insira o componente de forma reta e firme.
+4. Reaperte os parafusos sem excesso de força.
+
+> ℹ️ **Observação:** O alinhamento correto evita danos ao slot e ao componente.
+
+---
+
+### 6. Fechamento do Gabinete
+1. Recoloque a tampa lateral.
+2. Parafuse novamente o gabinete.
+3. Certifique-se de que não há cabos soltos ou prensados.
+
+---
+
+### 7. Teste Final
+1. Reconecte o cabo de energia.
+2. Ligue o equipamento.
+3. Verifique se o sistema reconhece corretamente o componente instalado.
+
+---
+
+## Boas Práticas
+- Nunca force encaixes
+- Sempre alinhe antes de pressionar
+- Organize os parafusos durante a desmontagem
+- Evite eletricidade estática
+
+---
+
+## Possíveis Erros Comuns
+- Forçar componente desalinhado
+- Esquecer parafusos soltos dentro do gabinete
+- Trabalhar com o equipamento energizado
+
+---
+
+
+
 
