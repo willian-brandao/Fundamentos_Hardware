@@ -254,12 +254,12 @@ Com base nos triãngulos:
 * Alinhe o triângulo da CPU com o triângulo do soquete.
 * Posicione a CPU cuidadosamente sobre o soquete.
 
-A COU deve encaixar sem aplicar força. 
+A CPU deve encaixar sem aplicar força. 
 
 #### 7. Encaixe a CPU
 
 Após o alinhamento:
-* Solte a CPU suavemente no sqquete.
+* Solte a CPU suavemente no soquete.
 * Verifique se ela está completamente assentada e nivelada.
 
 Se houver resistência, interrompa o processo e verifique o alinhamento novamente. 
