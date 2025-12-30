@@ -7,4 +7,15 @@ A manutenção e o cuidado adequados podem ajudar os componentes do laptop a fun
 
 ## Manutenção Preventiva de notebook
 
-Um programa 
+Um programa de manutneção preventiva é vital para resolver esses problemas e deve incluir um cronograma de rotina para manutenção e quando o uso exigir. 
+
+O cronograma de manutenção preventiva de um laptop pode incluir práticas exclusivas de uma determinada organização, mas também deve incluir procedimentos de limpeza padrão, manutenção do disco rígido e atualizações de software.
+
+Para manter um laptop limpo, seja proativo e não reativo. Mantenha líquidos e alimentos longe do laptop e feche-o quando não estiver em uso. Nunca use produtos de limpeza agressivos ou soluções que contenham amônia ao limpar um laptop. Use materiais não abrasivos, como ar comprimido, leves soluções de limpeza, algodão cotonetes e um pano macio e sem fiapos. 
+
+**Cuidado**:antes de limpar um laptop, desconecte-o de todas as fontes de energia e remova a bateria. 
+
+Manutenção de rotina inclui a limpeza mensal destes componentes do laptop:
+
+* Caixa externa - Limpe a caixa com um pano macio e sem fiapos levemente umedecidos com água ou solução de limpeza suave.
+*  
