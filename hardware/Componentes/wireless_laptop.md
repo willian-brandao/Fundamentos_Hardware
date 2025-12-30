@@ -53,5 +53,55 @@ Após a conclusão do processo, o sistema confirma que o dispositivo está pront
 
 Por fim, o conteúdo destaca que o Bluetooth pode ser desligado quando não estiver em uso, encerrando a conexão. Em utilizações futuras, caso o Bluetooth esteja ativado e o dispositivo esteja próximo, a reconexão pode ocorrer automaticamente, sem a necessidade de repetir todo o processo de pareamento.
 
+---
+
+## WAN WI-FI
+
+Os laptops com recursos WAN por celular integrados não exigem instalação de software e nem acessórios ou antenas adicionais. Ao iniciar o laptop, os recursos de WAN integrados estarão prontos para uso. Se a conexão não estiver ativa, procure um interruptor na parte frontal ou lateral do laptop. Alguns laptops podem ter uma tecla de função especial no teclado para ativar a conexão. 
+
+Muito telefones celulares oferecem a capacidade de conectar outros dispositivos. Essa conexão, conhecida como amarração, pode ser feita usando WI-FI, Bluetooth ou usando um cabo USB. Depois que um dispositivo é conectado, ele pode usar a conexão celular do telefone para acessar a Internet. Quando um celular permite que os dispositivos WI-FI se conectem e usem a rede de dados móveis, isso é chamado de hotspot. Pode-se também acessar uma rede celular usando um dispositivo de ponto de acesso celular.
+
+Há também adaptadores sem fio mini PCIe e M. 2 para laptops que podem fornecer uma combinação de conectividade Wi-Fi, Bluetooth exigirão a instalação de um novo kit de antena, que tem fios que geralmente são roteador em torno da tela na tampa do laptop. Ao instalar uma placa de adaptador com funcionalidaded de celular, um SIM também precisará ser inserido.
+
+---
+
+## Wi-Fi
+
+Os laptops normalmente acessam a Internet utilizando adaptadores sem fio. Os adaptadores sem fio podem ser embutidos ou conectados ao laptop por uma porta de expansão. Três principais tipos de adaptadores sem fio em laptops.
+
+### Tipos de Adaptadores Sem Fio
+
+| Tipo | Descrição | Exemplo |
+| ---- | --------- | ------- |
+| Mini-PCI| As placas Mini-PCI possuem 124 pinos e são capazes de padrões de conexão LAN sem Fio 802.11a, 802.11b e 802.11g. |  <img width="206" height="189" alt="image" src="https://github.com/user-attachments/assets/5f4969b8-511b-4dc9-bac8-77b1ee836aa8" /> |
+| Mini-PCIe | As placas Mini-PCIe têm 54 pinos e suportam os mesmos padrões que a Mini-PCI, com a adição dos padrões de LAN sem fio 802.11n e 802.11ac. | <img width="146" height="126" alt="image" src="https://github.com/user-attachments/assets/b952d9e8-2e6e-4ca4-b411-3a4f54a1836b" /> |
+| PCI Express Micro | Micro PCI Express - Normalmente, são encontrados em laptops mais novos e menores, como ultrabooks, pois têm metade do tamanho dos cartões Mini PCIe. Os cartões Micro PCI Express têm 54 pinos e suportam os mesmos padrões dos Mini PCIe. | <img width="91" height="153" alt="image" src="https://github.com/user-attachments/assets/96f95e0c-bdc1-4b49-bd4f-fb076505dd8e" /> |
+
+---
+
+## Conexão de um Laptop a uma Rede Sem Fio (Wi-Fi) no Windows
+
+O conteúdo explica como conectar um laptop a uma rede sem fio no Windows, apresentando diferentes caminhos para acessar as opções de rede e realizar a conexão de forma segura.
+
+Inicialmente, são mostradas **três maneiras principais** de acessar as configurações de rede sem fio:
+
+- Pelo **ícone de rede Wi-Fi** no canto inferior direito da tela, que indica se o computador está desconectado e mostra as redes disponíveis.
+- Pelo **menu Iniciar**, pesquisando e acessando o **Painel de Controle**.
+- Clicando com o **botão direito no menu Iniciar** e acessando diretamente as **Conexões de Rede**.
+
+No exemplo apresentado, é utilizado o caminho mais longo, começando pelo **Painel de Controle**. Dentro dele, o usuário acessa a opção **Rede e Internet**, onde estão disponíveis a **Central de Rede e Compartilhamento** e a opção **Conectar a uma rede**.
+
+Ao clicar em **Conectar a uma rede**, o sistema exibe todas as redes sem fio disponíveis nas proximidades. O usuário então escolhe a rede desejada com base na intensidade do sinal e clica em **Conectar**.
+
+Durante o processo, o Windows permite escolher se a conexão será feita **automaticamente** sempre que a rede estiver disponível ou se será necessário conectar manualmente a cada vez. No caso apresentado, a opção de conexão automática é desmarcada, optando pela conexão manual.
+
+Em seguida, é solicitada a **chave de segurança** da rede Wi-Fi. Após inserir a senha correta, o sistema faz uma pergunta relacionada à **visibilidade do dispositivo na rede**, o que envolve compartilhamento de arquivos e configurações de firewall.
+
+Como se trata de uma **rede de convidados**, a opção escolhida é **não tornar o dispositivo detectável** por outros computadores da rede, aumentando a segurança.
+
+Após essas etapas, a conexão é concluída com sucesso, indicando que o computador está **conectado e seguro**, permitindo o acesso normal à internet e à navegação.
+
+--
+
 
 
