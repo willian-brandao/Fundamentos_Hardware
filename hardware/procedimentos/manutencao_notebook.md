@@ -18,4 +18,9 @@ Para manter um laptop limpo, seja proativo e não reativo. Mantenha líquidos e 
 Manutenção de rotina inclui a limpeza mensal destes componentes do laptop:
 
 * Caixa externa - Limpe a caixa com um pano macio e sem fiapos levemente umedecidos com água ou solução de limpeza suave.
-*  
+*  Ventilação de refrigeração e portas de e/s - User ar comprimido ou um aspirador não eletrostático para limpar a poeira dos respiros e do ventilador atrás do respiro. Use pinças para remover todos os detritos.
+*  Exibição - Limpe a tela com um pano macio e sem fiapos levemente umedecido com um limpador de tela do computador.
+*  Teclado - Limpe o teclado com um pano macio e sem fiapos levemente umedecido com água ou solução de limpeza suave.
+*  Touchpad - Limpe a superfície do touchpad suavemente com um pano macio e sem fiapos umedecidocom um produto de limpeza aprovado. Nunca use um pano úmido.
+
+
