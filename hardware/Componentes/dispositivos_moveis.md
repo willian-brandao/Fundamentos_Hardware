@@ -34,5 +34,13 @@ Smartwatches são um tipo de wearable que inclui um microprocessador, um sistema
 
 ### Rastreadores de Fitness
 
-Os rastreadores de fitness são semelhantes aos smartwatches, mas limitam-se a monitorar o corpo, como atividade física, sono e exercícios. FitBit é um exemplo popular que monitora a frequência cardíaca e o número de passos dados. Semelhante aos rastradores de fitness, existem dispositivos de monitoramento de saúde mais sofisticados que podem detectar ataques cardíacos
+Os rastreadores de fitness são semelhantes aos smartwatches, mas limitam-se a monitorar o corpo, como atividade física, sono e exercícios. FitBit é um exemplo popular que monitora a frequência cardíaca e o número de passos dados. Semelhante aos rastradores de fitness, existem dispositivos de monitoramento de saúde mais sofisticados que podem detectar ataques cardíacos, monitorar a qualidade do ar e detectar níveis de oxigênio no sangue. Esses dispositivos podem fornecer dados de qualidade hospitalar aos profissionais de saúde. 
+
+### Realidade Aumentada e Virtual 
+
+Na realidade Aumentada (AR), a computação gráfica é integrada ao que é visto no mundo real, geralmente por meio de câmera do dispositivo. As sobreposições gráficas podem variar de personagens de desenho animado em um aplicativo de jogo a informações para treinamento em gerenciamento de emergência para socorristas. Há muitos usos potenciais para o AR e é uma das áreas mais promissoras para o desenvolvimento futuro do produto. 
+
+Relacionada à AR, está a realidade virtual (VR). Na VR, o usuário usa um especial que exibe gráficos de um computador separado. Os gráficos são 3D imersivos e criam mundos muito realísticos. Os movimentos do usuário de RV são detectados por sensores que permitem ao usuário interagir e se movimentar no ambiente virtual. A RV é muito popular em jogos, mas tem aplicações em outras áreas, como educação e treinamento. 
+
+
 
