@@ -1,6 +1,8 @@
 # Dispositivos Móveis
 
-## Mobilidade em tecnologia da informação significa acessar informações eletronicamente de diferentes locais fora de casa ou do escritório. A conectividade móvel é limitada apenas pela disponibilidade de redes de celular ou de dados. Os dispositivos móveis têm energia independente em baterias recarregáveis, geralmente são pequenos leves e não dependem de outros dispositivos periféricos conectados, como mouse e teclado, para operar. 
+## Mobilidade 
+
+Mobilidade em tecnologia da informação significa acessar informações eletronicamente de diferentes locais fora de casa ou do escritório. A conectividade móvel é limitada apenas pela disponibilidade de redes de celular ou de dados. Os dispositivos móveis têm energia independente em baterias recarregáveis, geralmente são pequenos leves e não dependem de outros dispositivos periféricos conectados, como mouse e teclado, para operar. 
 
 ## Características de um Smartphone
 
