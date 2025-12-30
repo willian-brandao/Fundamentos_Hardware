@@ -24,6 +24,15 @@ Ao contrário dos smartphones, os tablets normalmente têm telas de toque maiore
 
 Os leitores eletrônicos, como o Amazon Kindle Fire, são dispositivos de finalidades especiais com telas pretas e brancas que foram otimizados para leitura de texto. Embora pareçam tablets, eles não têm muitos dos recursos e das fubções que as tablets fornecem. O acesso à Web é limitado às lojas do eBook que podem ser operadas pelo fabricante do e-Reader. Muitos têm telas sensíveis que facilitam a ativação de páginas, a alteração de configurações e o acesso a eBooks on-line. Muitos leitores eletrônicos podem armazenar 1.000 ou mais livros. Para conectividade, algumas oferecem conexões de dados móveis gratuitas para download de lovros de uma loja específica, mas mais dependem de Wi-Fi. Bluetooth também está disponível e é compatível com fones de ouvido para livros de áudio. A vida útil da bateria do E-Reader geralmente é maior que os tablets, em até 15-20 horas de tempo de leitura ou mais.
 
+## Smarwatches e Rastreadores Fitness
 
+Wearables são dispositivos inteligentes que devem ser usados no corpo ou presos à roupa. Dois wearables populares são smartwatches e rastreadores de fitness. 
 
+### Smartwatches
+
+Smartwatches são um tipo de wearable que inclui um microprocessador, um sistema operacional especial e aplicativos. Os sensores do smartwatch podem coletar dados sobre vários aspectos do corpo, como frequência cardíaca, e usar o Bluetooth para relatar essas informações a outro dispositivo, como um smartphone. Em seguida, o smartphone encaminha as informações para um aplicativo pela Internet para armazenamento e análise. Alguns smartwatches também podem se conectar diretamente a uma rede de celular, servir como telas convenientes para notificações de aplicativos, podem incluir serviços de localização GPS e a capacidade de armazenar e reproduzir músicas e listas de conteúdos.
+
+### Rastreadores de Fitness
+
+Os rastreadores de fitness são semelhantes aos smartwatches, mas limitam-se a monitorar o corpo, como atividade física, sono e exercícios. FitBit é um exemplo popular que monitora a frequência cardíaca e o número de passos dados. Semelhante aos rastradores de fitness, existem dispositivos de monitoramento de saúde mais sofisticados que podem detectar ataques cardíacos
 
